@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My_SplashScreen_TP</string>
+    <string name="user_name">Nom d utilisateur</string>
+    <string name="password">Mot de Passe</string>
+    <string name="login">S\'identifier</string>
+    <string name="info">Informations d\'utilisateur</string>
+    <string name="welcometext">Bienvenue</string>
+</resources>
